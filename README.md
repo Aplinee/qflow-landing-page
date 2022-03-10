@@ -1,6 +1,6 @@
 # landingpage
 
-> a
+> 本项目是轻流自定义首页demo，总用时仅30分钟，仅做参考，具体投产可以fork代码自行修改
 
 ## Build Setup
 
